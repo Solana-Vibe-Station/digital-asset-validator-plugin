@@ -27,5 +27,5 @@ docker/solana-outputs
 snapshot
 
 # Allow the generated .so in geyser-outputs
-!geyser-outputs/
-!geyser-outputs/**
+#!geyser-outputs/
+#!geyser-outputs/**
